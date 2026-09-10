@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/KeePassSharp/KeePassSharp.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/KeePassSharpTest/KeePassSharpTest.csproj" />
+  </Folder>
+</Solution>
